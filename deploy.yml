@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: jasdocker21/demo1
+        image: jasdocker21/demo1:latest
         ports:
         - containerPort: 80
 
